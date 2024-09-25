@@ -1,5 +1,5 @@
-App simples que calcula e indica qual o melhor abastecimento para seu carro.
+A simple app that calculates and indicates the best fuel for your car.
 
-Se o preço do Álcool dividido pelo preço da gasolina 
-for maior ou = a 0.7 então é melhor utilizar Gasolina,
-senão é melhor utilzar Álcool.
+If the price of Alcohol divided by the price of Gasoline
+is greater than or equal to 0.7 then it is better to use
+Gasoline, otherwise it is better to use Alcohol.
